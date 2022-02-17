@@ -9,6 +9,7 @@
 + git config --global user.name "usuario de github"
     >Asigna mi usuario a mi computadora.
 + git config --global user.email "correo que corresponde al usuario"
+    >Asigna mi correo a mi computadora.
 + git config user.name
     >Nos enseña el usuario actual.
 + git config user.email
